@@ -1,1 +1,1 @@
-# uto-Scrolling-Reading-Assistant
+# Auto-Scrolling-Reading-Assistant
